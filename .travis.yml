@@ -1,7 +1,7 @@
 language: go
 
 go:
-  - release
+  - 1.9.x
 
 before_install:
   - make deps
